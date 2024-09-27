@@ -4,7 +4,7 @@
   "description": "Github Package demo",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@alan-eicker"
+    "registry": "https://npm.pkg.github.com/alan-eicker"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
