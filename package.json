@@ -1,10 +1,10 @@
 {
-  "name": "gh-package-demo",
+  "name": "@alan-eicker/gh-package-demo",
   "version": "1.0.0",
   "description": "Github Package demo",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/alan-eicker"
+    "registry": "https://npm.pkg.github.com/@alan-eicker"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
