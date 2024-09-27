@@ -1,0 +1,18 @@
+{
+  "name": "gh-package-demo",
+  "version": "1.0.0",
+  "description": "Github Package demo",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/alan-eicker"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/alan-eicker/gh-package-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
