@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/alan-eicker/gh-package-demo/compare/v1.5.0...v1.5.1) (2024-09-28)
+
+
+### Bug Fixes
+
+* Fixes issue with 'add' utility function ([23146f6](https://github.com/alan-eicker/gh-package-demo/commit/23146f631dab8f0f5364acb460b298309dddb618))
+
 # [1.5.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.4.0...v1.5.0) (2024-09-28)
 
 
