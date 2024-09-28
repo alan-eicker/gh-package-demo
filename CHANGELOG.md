@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.4.0...v1.5.0) (2024-09-28)
+
+
+### Features
+
+* Adds inArray utility function ([e9df7de](https://github.com/alan-eicker/gh-package-demo/commit/e9df7de05db5f29c26b233032ad2db313ce90b41))
+* Adds isEven and isOdd utility functions ([623ea29](https://github.com/alan-eicker/gh-package-demo/commit/623ea291a02d1bab5882dbdd4172a60c7ec88067))
+
 # [1.4.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.3.0...v1.4.0) (2024-09-28)
 
 
