@@ -6,6 +6,12 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
+  "release": {
+    "branches": [
+      "master",
+      "main"
+    ]
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
