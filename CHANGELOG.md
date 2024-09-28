@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.0.0...v1.1.0) (2024-09-28)
+
+
+### Features
+
+* Adds utils.js ([92cef03](https://github.com/alan-eicker/gh-package-demo/commit/92cef030a40fcc8fd6f1269dc4994fd44454b4cd))
+
 # 1.0.0 (2024-09-28)
 
 
