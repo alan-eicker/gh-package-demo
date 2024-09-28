@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.2.1...v1.3.0) (2024-09-28)
+
+
+### Features
+
+* Adds multiply utility function ([c687ce7](https://github.com/alan-eicker/gh-package-demo/commit/c687ce7d47ff41524f12d9e7fd399ea4ff69d441))
+
 # [1.2.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.1.0...v1.2.0) (2024-09-28)
 
 
