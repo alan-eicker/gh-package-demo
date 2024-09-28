@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.3.0...v1.4.0) (2024-09-28)
+
+
+### Features
+
+* Adds divide utility function ([7114908](https://github.com/alan-eicker/gh-package-demo/commit/7114908b6f074f12eaabfdbfe1d5021c0e60211a))
+
 # [1.3.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.2.1...v1.3.0) (2024-09-28)
 
 
