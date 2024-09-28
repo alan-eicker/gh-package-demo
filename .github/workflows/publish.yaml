@@ -15,11 +15,10 @@ jobs:
           node-version: 18
           registry-url: https://npm.pkg.github.com/
       - run: npm install
-      - run: npx semantic-release
-      # - name: Semantic Release
-      #   uses: cycjimmy/semantic-release-action@v4
-      #   env:
-      #     GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx semantic-release --branches master
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
