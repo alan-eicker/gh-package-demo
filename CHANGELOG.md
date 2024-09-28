@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.7.0...v1.8.0) (2024-09-28)
+
+
+### Features
+
+* Updates index.js ([c1baee4](https://github.com/alan-eicker/gh-package-demo/commit/c1baee42bd31986c0f309ecdb2f1daefca004334))
+
 # [1.7.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.6.0...v1.7.0) (2024-09-28)
 
 
