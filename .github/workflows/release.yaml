@@ -16,7 +16,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
+          registry-url: https://npm.pkg.github.com/
       - run: npm ci
       - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
+      - run: npm publish
+        if: ${{ github.event_name == 'release' }}
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.PAT }}
