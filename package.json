@@ -1,6 +1,6 @@
 {
   "name": "@alan-eicker/gh-package-demo",
-  "version": "1.10.3",
+  "version": "1.10.4",
   "description": "Github Package demo",
   "main": "index.js",
   "publishConfig": {

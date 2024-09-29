@@ -1,3 +1,10 @@
+## [1.10.4](https://github.com/alan-eicker/gh-package-demo/compare/v1.10.3...v1.10.4) (2024-09-29)
+
+
+### Bug Fixes
+
+* Updates workflow ([830198a](https://github.com/alan-eicker/gh-package-demo/commit/830198a53d2344027c20a7a514b81c6e4c0ebbdd))
+
 ## [1.10.3](https://github.com/alan-eicker/gh-package-demo/compare/v1.10.2...v1.10.3) (2024-09-29)
 
 
