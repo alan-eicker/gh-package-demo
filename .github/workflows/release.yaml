@@ -1,4 +1,4 @@
-name: Release
+name: Publish
 
 on:
   push:
@@ -20,3 +20,6 @@ jobs:
       - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.PAT }}
