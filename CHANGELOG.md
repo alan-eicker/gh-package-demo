@@ -1,3 +1,11 @@
+# [1.9.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.8.0...v1.9.0) (2024-09-29)
+
+
+### Features
+
+* updates workflows ([0f0dc07](https://github.com/alan-eicker/gh-package-demo/commit/0f0dc07328a1284a59ba044aa848299e24808bdb))
+* Updates workflows ([b1038e1](https://github.com/alan-eicker/gh-package-demo/commit/b1038e12e7a70e1dc257e6e63197e32a56a7ceda))
+
 # [1.8.0](https://github.com/alan-eicker/gh-package-demo/compare/v1.7.0...v1.8.0) (2024-09-28)
 
 
