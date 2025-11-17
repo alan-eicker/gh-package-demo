@@ -7,7 +7,9 @@
     "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prerelease:alpha": "npm version prerelease --preid=alpha && git push --follow-tags",
+    "prerelease:beta": "npm version prerelease --preid=beta && git push --follow-tags",
+    "prerelease:rc": "npm version prerelease --preid=rc && git push --follow-tags"
   },
   "author": "",
   "license": "ISC",
